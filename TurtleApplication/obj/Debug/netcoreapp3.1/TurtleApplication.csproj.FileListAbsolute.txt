@@ -1,0 +1,13 @@
+E:\TurtleApplication\TurtleApplication\bin\Debug\netcoreapp3.1\TurtleApplication.exe
+E:\TurtleApplication\TurtleApplication\bin\Debug\netcoreapp3.1\TurtleApplication.deps.json
+E:\TurtleApplication\TurtleApplication\bin\Debug\netcoreapp3.1\TurtleApplication.runtimeconfig.json
+E:\TurtleApplication\TurtleApplication\bin\Debug\netcoreapp3.1\TurtleApplication.runtimeconfig.dev.json
+E:\TurtleApplication\TurtleApplication\bin\Debug\netcoreapp3.1\TurtleApplication.dll
+E:\TurtleApplication\TurtleApplication\bin\Debug\netcoreapp3.1\TurtleApplication.pdb
+E:\TurtleApplication\TurtleApplication\obj\Debug\netcoreapp3.1\TurtleApplication.csprojAssemblyReference.cache
+E:\TurtleApplication\TurtleApplication\obj\Debug\netcoreapp3.1\TurtleApplication.AssemblyInfoInputs.cache
+E:\TurtleApplication\TurtleApplication\obj\Debug\netcoreapp3.1\TurtleApplication.AssemblyInfo.cs
+E:\TurtleApplication\TurtleApplication\obj\Debug\netcoreapp3.1\TurtleApplication.csproj.CoreCompileInputs.cache
+E:\TurtleApplication\TurtleApplication\obj\Debug\netcoreapp3.1\TurtleApplication.dll
+E:\TurtleApplication\TurtleApplication\obj\Debug\netcoreapp3.1\TurtleApplication.pdb
+E:\TurtleApplication\TurtleApplication\obj\Debug\netcoreapp3.1\TurtleApplication.genruntimeconfig.cache

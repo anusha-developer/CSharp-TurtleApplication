@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+b3B3Kt5eprdOAp5DPYZR26dMOR0BLkd7qsiayuRZVm9kp5LdUmazpXyfTxh1yirrzwnnKnAN+kLFrFa7C0YBQ==",
+  "success": true,
+  "projectFilePath": "E:\\TurtleApplication\\TurtleApplication\\TurtleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
